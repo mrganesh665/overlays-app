@@ -1,0 +1,13 @@
+
+
+*{
+  color:#ffffff;
+}
+
+body {
+  background-color: #a3b7ff;
+}
+
+#tasklist::-webkit-scrollbar {
+  display: none;
+}
