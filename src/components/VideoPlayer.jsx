@@ -13,7 +13,7 @@ const VideoPlayer = () => {
 
 
   const STREAM_URL = "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8";
-  const API_URL = "http://localhost:5000/api/overlays";
+  const API_URL = "https://overlays-backend.onrender.com/api/overlays";
 
  
   useEffect(() => {
